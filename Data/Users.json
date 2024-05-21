@@ -2,47 +2,69 @@
     "Users": [
         {
             "Username" : "John",
-            "Password": "Teamop21"
+            "Password": "Teamop21",
+            "Lastname": "Smith",
+            "Age": 30
         },
         {
             "Username" : "Jan",
-            "Password": "RipRap"
+            "Password": "RipRap",
+            "Lastname": "Johnson",
+            "Age": 25
         },
         {
             "Username" : "Emily",
-            "Password": "Sunshine45"
+            "Password": "Sunshine45",
+            "Lastname": "Brown",
+            "Age": 28
         },
         {
             "Username" : "Mike",
-            "Password": "BlueBird789"
+            "Password": "BlueBird789",
+            "Lastname": "Williams",
+            "Age": 35
         },
         {
             "Username" : "Sarah",
-            "Password": "GreenApple123"
+            "Password": "GreenApple123",
+            "Lastname": "Davis",
+            "Age": 32
         },
         {
             "Username" : "David",
-            "Password": "MountainDew456"
+            "Password": "MountainDew456",
+            "Lastname": "Martinez",
+            "Age": 27
         },
         {
             "Username" : "Rachel",
-            "Password": "PurpleRain"
+            "Password": "PurpleRain",
+            "Lastname": "Anderson",
+            "Age": 29
         },
         {
             "Username" : "Andrew",
-            "Password": "SilverFox87"
+            "Password": "SilverFox87",
+            "Lastname": "Taylor",
+            "Age": 31
         },
         {
             "Username" : "Olivia",
-            "Password": "OceanWave22"
+            "Password": "OceanWave22",
+            "Lastname": "Garcia",
+            "Age": 26
         },
         {
             "Username" : "Daniel",
-            "Password": "RedRose789"
+            "Password": "RedRose789",
+            "Lastname": "Wilson",
+            "Age": 33
         },
         {
             "Username" : "Emma",
-            "Password": "YellowSunrise"
+            "Password": "YellowSunrise",
+            "Lastname": "Thomas",
+            "Age": 24
         }
     ]
 }
