@@ -4,67 +4,78 @@
             "Username" : "John",
             "Password": "Teamop21",
             "Lastname": "Smith",
-            "Age": 30
+            "Age": 30,
+            "Accepted": false
         },
         {
             "Username" : "Jan",
             "Password": "RipRap",
             "Lastname": "Johnson",
-            "Age": 25
+            "Age": 25,
+            "Accepted": false
         },
         {
             "Username" : "Emily",
             "Password": "Sunshine45",
             "Lastname": "Brown",
-            "Age": 28
+            "Age": 28,
+            "Accepted": false
         },
         {
             "Username" : "Mike",
             "Password": "BlueBird789",
             "Lastname": "Williams",
-            "Age": 35
+            "Age": 35,
+            "Accepted": false
         },
         {
             "Username" : "Sarah",
             "Password": "GreenApple123",
             "Lastname": "Davis",
-            "Age": 32
+            "Age": 32,
+            "Accepted": false
         },
         {
             "Username" : "David",
             "Password": "MountainDew456",
             "Lastname": "Martinez",
-            "Age": 27
+            "Age": 27,
+            "Accepted": false
         },
         {
             "Username" : "Rachel",
             "Password": "PurpleRain",
             "Lastname": "Anderson",
-            "Age": 29
+            "Age": 29,
+            "Accepted": false
         },
         {
             "Username" : "Andrew",
             "Password": "SilverFox87",
             "Lastname": "Taylor",
-            "Age": 31
+            "Age": 31,
+            "Accepted": false
         },
         {
             "Username" : "Olivia",
             "Password": "OceanWave22",
             "Lastname": "Garcia",
-            "Age": 26
+            "Age": 26,
+            "Accepted": false
         },
         {
             "Username" : "Daniel",
             "Password": "RedRose789",
             "Lastname": "Wilson",
-            "Age": 33
+            "Age": 33,
+            "Accepted": false
         },
         {
             "Username" : "Emma",
             "Password": "YellowSunrise",
             "Lastname": "Thomas",
-            "Age": 24
+            "Age": 24,
+            "Accepted": false
         }
     ]
 }
