@@ -7,6 +7,42 @@
         {
             "Username" : "Jan",
             "Password": "RipRap"
+        },
+        {
+            "Username" : "Emily",
+            "Password": "Sunshine45"
+        },
+        {
+            "Username" : "Mike",
+            "Password": "BlueBird789"
+        },
+        {
+            "Username" : "Sarah",
+            "Password": "GreenApple123"
+        },
+        {
+            "Username" : "David",
+            "Password": "MountainDew456"
+        },
+        {
+            "Username" : "Rachel",
+            "Password": "PurpleRain"
+        },
+        {
+            "Username" : "Andrew",
+            "Password": "SilverFox87"
+        },
+        {
+            "Username" : "Olivia",
+            "Password": "OceanWave22"
+        },
+        {
+            "Username" : "Daniel",
+            "Password": "RedRose789"
+        },
+        {
+            "Username" : "Emma",
+            "Password": "YellowSunrise"
         }
     ]
 }
